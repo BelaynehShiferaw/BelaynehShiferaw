@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BelaynehShiferaw
-- 👀 I’m interested in learning web developer
+- 👀 I’m interested in learning web developer and Network Desginer
 - 🌱 I’m currently learning bahirdar university..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
